@@ -12,3 +12,6 @@
 *.ilk
 ipch
 Thumbs.db
+
+Library/
+Temp/
