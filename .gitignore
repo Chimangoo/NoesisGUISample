@@ -1,0 +1,14 @@
+*.ncb
+*.suo
+*.user
+*.opensdf
+*.sdf
+*.log
+*.dSYM
+*.exp
+*.pdb
+*.lib
+*.dll
+*.ilk
+ipch
+Thumbs.db
